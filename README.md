@@ -1,2 +1,2 @@
-# FMML_Project_And_Labs
-FMML Projects and Lab 
+# FMML_Projects_And_Labs
+FMML Projects and Lab Assignments
